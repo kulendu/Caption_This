@@ -1,0 +1,49 @@
+.heading{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading-logo{
+    position: relative;
+    z-index: 1;
+    align-items: center;
+    height: 120px;
+}
+
+.mid-content{
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+}
+
+.top-curve{
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.upload-form{
+    align-items: center;
+    padding: 20px;
+}
+
+.upload{
+    padding: 20px;
+}
+
+.upload-button{
+    color: #00cba9;
+}
+
+.bottom-curve{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+} 
+
+
