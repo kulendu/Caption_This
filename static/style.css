@@ -39,7 +39,7 @@
 }
 
 .upload-button{
-    color: #00cba9;
+    color: #ff7300;
 }
 
 .bottom-curve{
@@ -58,3 +58,22 @@ footer{
     padding: 0 30%;
 }
 
+
+
+.working-section{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+}
+
+.working-content{
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    margin: 0 15% 5%;
+}
