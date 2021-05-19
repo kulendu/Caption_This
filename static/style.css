@@ -19,6 +19,7 @@
     font-weight: bold;
     position: relative;
     z-index: 1;
+    margin: 0 15%;
 }
 
 .top-curve{
@@ -30,6 +31,7 @@
 .upload-form{
     align-items: center;
     padding: 20px;
+    margin: 0 30%;
 }
 
 .upload{
@@ -37,7 +39,7 @@
 }
 
 .upload-button{
-    color: #00cba9;
+    color: #ff7300;
 }
 
 .bottom-curve{
@@ -46,4 +48,32 @@
     bottom: 0;
 } 
 
+footer{
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 10%;
+    padding: 0 30%;
+}
 
+
+
+.working-section{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 30px;
+}
+
+.working-content{
+    margin: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    position: relative;
+    z-index: 1;
+    margin: 0 15% 5%;
+}
